@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 seed=${1:-0}
-n_test=${2:-100}
+n_test=${2:-10000}
 n_train=${3:-60000}
 
 cd ./bindsnet_experiments/experiments/mnist/
