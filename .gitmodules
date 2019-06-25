@@ -1,3 +1,6 @@
 [submodule "bindsnet"]
 	path = bindsnet
 	url = https://github.com/Hananel-Hazan/bindsnet.git
+[submodule "bindsnet_experiments"]
+	path = bindsnet_experiments
+	url = https://github.com/djsaunde/bindsnet_experiments
